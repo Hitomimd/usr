@@ -533,7 +533,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('Script : Chat Owner\n\n Dont Forget Give Star\n\nDonate : 6285878105774 (Gopay)\nQris :https://telegra.ph/Donate-06-19 \n  \n\n Dont Forget Donate')
+                m.reply('Kgk Ad ):')
             }
             break
             case 'chat': {
@@ -2653,19 +2653,19 @@ case 'assalamualaikum': {
 	}
 	break
 case 'donasi': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://wa.me/p/5258349800854856/6285878105774' }, caption: `Silahkan Scan Kode QR Diatas Untuk Donasi` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `Silahkan Scan Kode QR Diatas Untuk Donasi` }, { quoted: m })
             }
             break
 case 'gopay': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://wa.me/p/5258349800854856/6285878105774' }, caption: `GOPAY` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `GOPAY` }, { quoted: m })
             }
             break
 case 'dana': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/Donate-06-19' }, caption: `DANA` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `DANA` }, { quoted: m })
             }
             break
 case 'qris': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://wa.me/p/5258349800854856/6285878105774' }, caption: `QRIS ALL PAYMENT` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `QRIS ALL PAYMENT` }, { quoted: m })
             }
             break
 case 'api': case 'apikey': {
@@ -2701,26 +2701,23 @@ let btn = [{
             }
             break
 case 'sewabot': {
-	anu = `╭──「 *_SEWA BOT BY OvaBotzZ_* 」
-│❏ ➪ _1 MINGGU : 1K_
-│❏ ➪ _1 BULAN : 5K_
-│❏ ➪ _PERMANEN : 15k_
-╰────
-╭─ [ *KEUNTUNGAN SEWA BOT* ]
-│❏ ➪ _FAST RESPON_
-│❏ ➪ _ANTI DELAY_
-│❏ ➪ _BOT ON 24JAM_
-│❏ ➪ _ANTILINK ( AUTO KICK YANG KIRIM LINK )_
-│❏ ➪ _WELCOME IMAGE_
-╰──── 
-╭─[ *MINAT CHAT📌*]
-│❏ ➪ 🪀 _wa.me/6285878105774?text=SEWA+BOT_
-╰────
-╭─[ *PAYMENT💰*]
-│❏ ➪ _GOPAY_
-│❏ ➪ _DANA_
-│❏ ➪ _QRIS ALL PAYMENT_
-╰────`
+	anu = `*── 「 SEWA BOT 」 ──*
+
+*Harga Sewa*
+7 Hari = 4.000
+30 Hari = 7.000
+Permanen = 11.000
+
+*Keuntungan :*
+- Bot Masuk Sesuai Waktu Sewa
+- Gratis Premium 3 Hari
+- Antilink
+- On 24 Jam
+- Fitur Banyak
+- Welcome
+- Dan Lainnya
+
+*_Minat Chat : wa.me/6285878105774@s.whatsapp.net_*`
               let btn = [{
                                 quickReplyButton: {
                                     displayText: 'GOPAY',
@@ -4258,10 +4255,7 @@ case 'thanksto': {
 —————「 *SEWA | BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (Permanen)
-
-  *JADI BOT* 
-  *≻* Jadi Bot + Owner 20k (Permanen)
+  *≻* Sewa Bot 11k (Permanen)
 
   *JASA RUN BOT*
   *≻* Run Bot + Jadi Bot 30k (Permanen)
