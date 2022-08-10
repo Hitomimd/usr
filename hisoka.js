@@ -2725,7 +2725,7 @@ Permanen = 11.000
 - Welcome
 - Dan Lainnya
 
-*_Minat Chat : wa.me/6285641292796@s.whatsapp.net_*`
+*_Minat Chat : wa.me/6285878105774@s.whatsapp.net_*`
               let btn = [{
                                 quickReplyButton: {
                                     displayText: 'GOPAY',
