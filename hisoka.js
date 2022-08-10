@@ -1216,8 +1216,12 @@ break
                     await sleep(1500)
                     let btn = [{
                                  urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1231,7 +1235,7 @@ break
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'LIST MENU📚',
+                                    displayText: 'LIST MENU',
                                     id: 'command'
                                 }
                             }]
@@ -1250,8 +1254,12 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                  urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2717,7 +2725,7 @@ Permanen = 11.000
 - Welcome
 - Dan Lainnya
 
-*_Minat Chat : wa.me/6285878105774@s.whatsapp.net_*`
+*_Minat Chat : wa.me/6285641292796@s.whatsapp.net_*`
               let btn = [{
                                 quickReplyButton: {
                                     displayText: 'GOPAY',
@@ -2745,8 +2753,12 @@ Permanen = 11.000
 🗒 ️Prefix : *Multi Prefix*\n`
               let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2764,7 +2776,7 @@ Permanen = 11.000
                                     id: 'command'
                                 }
                             }]
-                        hisoka.send5ButImg(m.chat, anu, '© OvaBotz', global.thumb, btn)
+                        hisoka.send5ButImg(m.chat, anu, 'Ova Botz', global.thumb, btn)
                      }
             break
             case 'command':{
@@ -2896,10 +2908,10 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 								]
 							},
 							{
-								"title": "Jasa Sewa/Run",
+								"title": "Store",
 								"rows": [
 									{
-										"title": "Sewa/Run",
+										"title": "Store",
 										"description": "",
 										"rowId": `${prefix}thanksto`
 									}
@@ -3272,8 +3284,12 @@ case 'allmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3334,8 +3350,12 @@ let btn = [{
 └───────⭓`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3391,8 +3411,12 @@ case 'downloadmenu': {
 └───────⭓`
          let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3443,8 +3467,12 @@ case 'searchmenu': {
 └───────⭓`
        let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3489,8 +3517,12 @@ case 'mememenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3548,8 +3580,12 @@ case 'randommenu': {
 └───────⭓`
        let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3622,8 +3658,12 @@ case 'textpromenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3676,8 +3716,12 @@ case 'photooxymenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3727,8 +3771,12 @@ case 'ephotomenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3794,8 +3842,12 @@ case 'funmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3866,8 +3918,12 @@ case 'primbonmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3924,8 +3980,12 @@ case 'convertmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3977,8 +4037,12 @@ case 'mainmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4027,8 +4091,12 @@ case 'databasemenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4074,8 +4142,12 @@ case 'anonymousmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4121,8 +4193,12 @@ case 'islamicmenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4174,8 +4250,12 @@ case 'voicechangermenu': {
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4212,22 +4292,25 @@ case 'ownermenu': {
 
 ┌──⭓ *OWNER MENU*
 │
-│❏ ${prefix}react [emoji]
-│❏ ${prefix}chat [option]
-│❏ ${prefix}join [link]
-│❏ ${prefix}leave
-│❏ ${prefix}block @user
-│❏ ${prefix}unblock @user
-│❏ ${prefix}bcgroup [text]
-│❏ ${prefix}bcall [text]
-│❏ ${prefix}setppbot [image]
-│❏ ${prefix}setexif
+│➤ ${prefix}react [emoji]
+│➤ ${prefix}chat [option]
+│➤ ${prefix}join [link]
+│➤ ${prefix}leave
+│➤ ${prefix}block @user
+│➤ ${prefix}bcgroup [text]
+│➤ ${prefix}bcall [text]
+│➤ ${prefix}setppbot [image]
+│➤ ${prefix}setexif
 │
 └───────⭓`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -4252,27 +4335,34 @@ let btn = [{
 case 'thanksto': {
                 anu = `Hai Kak ${pushname}
 
-—————「 *SEWA | BOT* 」—————
+*➛ STORE ID MY OVA 🏷️*
+_*≻* Jadibot : 30k/Manen_
+_*≻* Jasarun : 25K/Bulan_
+_*≻* Sewa Bot : 11K/Manen_
+_*≻* Open Cabang Ova Botz : 45K/Manen_ 
 
-  *_SEWA BOT_* 
-  *≻* Sewa Bot 11k (Permanen)
+➛ *Keuntungan Jasa Run 🛡️*
+_*≻* Tinggal Scan_
+_*≻* Online 24 Jam_
+_*≻* Fast Respon_
+_*≻* Data Mati Tetep Online_
+_*≻* Bot No Internet_
+_*≻* Anti Delay_
+_*≻* Hemat Kuota_
+_*≻* Bisa Req NamaBot & Owner_
 
-  *JASA RUN BOT*
-  *≻* Run Bot + Jadi Bot 30k (Permanen)
+*Pembayaran  Via 💳*
+_Dana/Gopay/Qris_
 
-  *_Pembayaran :_* 
-  *≻* QRIS All Payment 
-  
-  _*NB : Bot online 24Jam,Kecuali ada masalah eror/bug._
-
-  *Minat? Langsung chat aja 🐦*
-
-  *Contact person Owner* :
-  Wa.me/6285878105774`
+_Minat Chat :_ http://wa.me/6285878105774@s.whatsapp.net`
 let btn = [{
                                 urlButton: {
-                                    displayText: 'YT CREATOR️',
-                                    url: ''
+                                    displayText: 'YouTube',
+                                    url: 'https://youtube.com/channel/UCRvRG_A90tX3qWzdnhQCGng'
+                                }
+                            }, {urlButton: {
+                                    displayText: 'Group WhatsApp',
+                                    url: 'https://chat.whatsapp.com/KJS4FckPoQz6vpa31c3Ilo'
                                 }
                             }, {
                                 quickReplyButton: {
